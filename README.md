@@ -18,5 +18,5 @@ This is not a full list and you should still be actively monitoring your server 
  - Please be careful not to block your internal services you use. Monitor your logs and services after deploying User Agent Block List.
 
 
-## .HTACCESS
-I have added .htaccess example file - please test it before you deploy it. 
+## .HTACCESS & NGINX
+I have added .htaccess and nginx sample rules - please test it before you deploy it. 
